@@ -10,7 +10,7 @@ The analysis is divided into three levels:
 - **Advanced**: Deep insights on customer spending per artist, top genres by country, and high-value customers by region.
 
 ## 🛠️ Tools Used
-- **SQL** (SQLite / PostgreSQL / MySQL – depending on your environment)
+- **SQL** (PostgreSQL)
 - **DB Browser** or any SQL client
 
 ## 📂 Dataset Overview
@@ -21,8 +21,11 @@ The dataset includes the following tables:
 - `Track`
 - `Artist`
 - `Album`
+- `Album2`
 - `Genre`
 - `Employee`
+- `playlist`
+- `playlist_track`
 
 ## 📈 Key Insights
 - Identified top-spending customers and cities for targeted marketing.
